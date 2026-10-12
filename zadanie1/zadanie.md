@@ -29,4 +29,5 @@ inteligencji:
 - symboliczne obliczanie pochodnych,
 - symboliczne całkowanie,
 - kierowanie samochodem.
+  
 odp.  wszystkie powyższe
