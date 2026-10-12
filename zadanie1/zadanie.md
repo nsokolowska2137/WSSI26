@@ -45,3 +45,17 @@ maszyny):
 - odpowiadanie na pytania klientów w internetowej infolinii.
 
 Odp. Wszystkie powyższe, aczkolwiek trzeba brać pod uwagę, szczególnie przy dyskusjach politycznych lub naukowych, że chatboty mogą zacząć halucynować i podawać informacje nierzetelne lub nieprawdziwe.
+
+# zADANIE 4
+CLEVERBOT - test Turinga
+You cant really cry, do you?
+
+B: I guess you are right.
+
+Thats it.
+
+B: What's it?
+
+You just said youre a bot.
+
+B: **I'm a bot** but I'm not a boy.
