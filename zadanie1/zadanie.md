@@ -31,3 +31,15 @@ inteligencji:
 - kierowanie samochodem.
   
 odp.  wszystkie powyższe
+
+# Zadanie 3
+Które z poniższych rodzajów komunikacyjnego zachowania człowieka mogą być
+obecnie skutecznie imitowane przez sztuczne systemy (odpowiednio oprogramowane
+maszyny):
+- rozmowa towarzyska,
+- dyskusja polityczna,
+- dyskusja naukowa,
+- odpowiadanie na pytania klientów w telefonicznej infolinii,
+- odpowiadanie na pytania klientów w internetowej infolinii.
+
+Odp. Wszystkie powyższe, aczkolwiek trzeba brać pod uwagę, szczególnie przy dyskusjach politycznych lub naukowych, że chatboty mogą zacząć halucynować i podawać informacje nierzetelne lub nieprawdziwe.
