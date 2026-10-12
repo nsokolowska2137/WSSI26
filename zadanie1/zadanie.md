@@ -1,16 +1,16 @@
 #Zadanie 1
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
-- wypełnianie deklaracji PIT,  TAK
-- streszczanie tekstu, TAK
-- tłumaczenie tekstu,  TAK
-- klasyfikacja tekstu do kategorii tematycznych,  TAK
-- odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),TAK
-- układanie rozkładu jazdy transportu miejskiego,   TAK
-- programowanie (pisanie programów komputerowych),  TAK
-- „programowanie” kanałów telewizyjnych,  TAK
-- testowanie oprogramowania,  TAK
-- komponowanie muzyki,  TAK
-- rozwiązywanie układów równań,  TAK
-- symboliczne obliczanie pochodnych funkcji,  TAK
-- symboliczne całkowanie funkcji,   TAK
-- kierowanie samochodem.   TAK
+- wypełnianie deklaracji PIT,  TAK, podawanie danych wrażliwych do LLM-a to nie najlepszy pomysł
+- streszczanie tekstu, NIE
+- tłumaczenie tekstu,  TAK i NIE, zależy jakiego i w jakim celu
+- klasyfikacja tekstu do kategorii tematycznych,  NIE
+- odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),NIE
+- układanie rozkładu jazdy transportu miejskiego,   TAK, bo wygenerowane rozkłady są słabe
+- programowanie (pisanie programów komputerowych), NIE
+- „programowanie” kanałów telewizyjnych,  NIE
+- testowanie oprogramowania,  NIE
+- komponowanie muzyki,  TAK, dzwięków wyplutych przez AI nie można nazwać muzyką
+- rozwiązywanie układów równań,  NIE
+- symboliczne obliczanie pochodnych funkcji,  NIE
+- symboliczne całkowanie funkcji,   NIE
+- kierowanie samochodem.   TAK, póki co uważam, że każdy pojazd powinien być nadzorowany przez ludzkiego kierowcę
