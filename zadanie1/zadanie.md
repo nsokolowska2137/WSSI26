@@ -1,4 +1,4 @@
-#Zadanie 1
+# Zadanie 1
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
 - wypełnianie deklaracji PIT,  TAK, podawanie danych wrażliwych do LLM-a to nie najlepszy pomysł
 - streszczanie tekstu, NIE
@@ -16,7 +16,7 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 - kierowanie samochodem.   TAK, póki co uważam, że każdy pojazd powinien być nadzorowany przez ludzkiego kierowcę
 
 
-#Zadanie 2
+# Zadanie 2
 Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej
 inteligencji:
 - streszczanie tekstu,
@@ -29,3 +29,4 @@ inteligencji:
 - symboliczne obliczanie pochodnych,
 - symboliczne całkowanie,
 - kierowanie samochodem.
+odp.  wszystkie powyższe
