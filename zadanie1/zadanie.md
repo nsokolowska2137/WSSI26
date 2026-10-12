@@ -1,5 +1,7 @@
 # Zadanie 1
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
+*Przy założeniu, że chodzi o to, czy człowiek jest niezbędny do tego zadania, bo każde wymaga inteligencji - od człowieka, czy agenta*
+
 - wypełnianie deklaracji PIT,  **TAK**, podawanie danych wrażliwych do LLM-a to nie najlepszy pomysł
 - streszczanie tekstu, **NIE**
 - tłumaczenie tekstu,  **TAK i NIE**, zależy jakiego i w jakim celu
