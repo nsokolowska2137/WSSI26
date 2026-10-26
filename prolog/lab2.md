@@ -86,8 +86,10 @@ Y = celina*
 Query: unika(X,Y), \+ unika(Y,X). ->
 *X = dawid,
 Y = bartek*
-**L2.Cw5.2**
 
+
+**L2.Cw5.2**
+osoba(X), dif(X,ania), następnie negacja.
 
 **L2.Cw5.3**
 
