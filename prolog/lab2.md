@@ -83,8 +83,9 @@ Y = celina*
 # Ćwiczenie 5
 
 **L2.Cw5.1**
-
-
+Query: unika(X,Y), \+ unika(Y,X). ->
+*X = dawid,
+Y = bartek*
 **L2.Cw5.2**
 
 
