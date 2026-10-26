@@ -23,10 +23,11 @@ dzieje się tak, ponieważ wyrażenie ground(kot(reks)). nie zawiera zmiennych w
 # Ćwiczenie 2
 
 **L2.Cw2.1**
-
+\+ pies(tom). -> *true* , ponieważ tom nie jest określone jako pies, więc negacja jest zgodna z bazą danych
 
 **L2.Cw2.2**
-
+kot(tom). -> *true*
+\+ kot(tom). -> *false*
 
 **L2.Cw2.3**
 
@@ -35,3 +36,28 @@ dzieje się tak, ponieważ wyrażenie ground(kot(reks)). nie zawiera zmiennych w
 
 
 **L2.Cw2.5**
+
+# Ćwiczenie 3
+
+**L2.Cw3.1**
+lubi(filip,ania).-> *true*
+lubi(ania,filip). -> *false*
+oznacza to, że Filip lubi Anię, ale Ania nie lubi Filipa; relacja jest asymetryczna
+**L2.Cw3.2**
+lubi(Kto, dawid). -> *Kto = bartek*
+
+**L2.Cw3.3**
+
+
+**L2.Cw3.4**
+
+
+**L2.Cw3.5**
+
+# Ćwiczenie 4
+
+**L2.Cw4.1**
+**L2.Cw4.2**
+**L2.Cw4.3**
+**L2.Cw4.4**
+**L2.Cw4.5**
