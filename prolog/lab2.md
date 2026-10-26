@@ -43,6 +43,7 @@ kot(tom). -> *true*
 lubi(filip,ania).-> *true*
 lubi(ania,filip). -> *false*
 oznacza to, że Filip lubi Anię, ale Ania nie lubi Filipa; relacja jest asymetryczna
+
 **L2.Cw3.2**
 lubi(Kto, dawid). -> *Kto = bartek*
 
@@ -57,7 +58,40 @@ lubi(Kto, dawid). -> *Kto = bartek*
 # Ćwiczenie 4
 
 **L2.Cw4.1**
+wzajemna_sympatia(X,Y):- plec(X,kobieta), plec(Y,mezczyzna), lubi(X,Y), lubi(Y,X).
+Query: wzajemna_sympatia(X,Y). -> 
+*X = ania,
+Y = bartek
+X = ewa,
+Y = filip*
+
 **L2.Cw4.2**
+nieprzyjazn(X,Y):- unika(Y,X), unika(X,Y).
+Query: nieprzyjazn(X,Y). -> 
+*X = filip,
+Y = celina*
+
 **L2.Cw4.3**
+
+
 **L2.Cw4.4**
+
+
 **L2.Cw4.5**
+
+
+# Ćwiczenie 5
+
+**L2.Cw5.1**
+
+
+**L2.Cw5.2**
+
+
+**L2.Cw5.3**
+
+
+**L2.Cw5.4**
+
+
+**L2.Cw5.5**
